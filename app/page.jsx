@@ -4,6 +4,10 @@
 
 const Home = () => {
 
+    // #region js
+
+  // #endregion
+
   // #region return 
   return (
     <div>

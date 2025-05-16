@@ -5,6 +5,10 @@ import "./global.css";
  // #endregion
 
 export default function RootLayout({ children }) {
+
+    // #region js
+
+  // #endregion
   return (
     <html lang="en">
       <body >
