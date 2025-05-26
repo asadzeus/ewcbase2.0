@@ -1,20 +1,13 @@
-//#region imports
-
-// #endregion
+import "./page.scss"
 
 const Home = () => {
 
-    // #region js
-
-  // #endregion
-
-  // #region return 
   return (
-    <div>
+    <div className="home">
       Home Page
     </div>
   );
-  // #endregion
+
 };
 
 export default Home;

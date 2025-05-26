@@ -1,5 +1,5 @@
 {
-  "name": "nextprojectbase",
+  "name": "nextprojectbase2.0",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -13,12 +13,10 @@
     "@emotion/styled": "^11.14.0",
     "@mui/icons-material": "^7.0.2",
     "@mui/material": "^7.0.2",
-    "@tailwindcss/postcss": "^4.1.3",
     "next": "15.0.3",
-    "postcss": "^8.5.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "tailwindcss": "^4.1.3"
+    "sass": "^1.89.0"
   },
   "description": "This is a base project for easy web creator.",
   "main": "index.js",
