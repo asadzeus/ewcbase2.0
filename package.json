@@ -13,10 +13,12 @@
     "@emotion/styled": "^11.14.0",
     "@mui/icons-material": "^7.0.2",
     "@mui/material": "^7.0.2",
+    "@tailwindcss/postcss": "^4.1.8",
     "next": "15.0.3",
+    "postcss": "^8.5.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "sass": "^1.89.0"
+    "tailwindcss": "^4.1.8"
   },
   "description": "This is a base project for easy web creator.",
   "main": "index.js",
